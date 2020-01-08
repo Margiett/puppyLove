@@ -1,0 +1,395 @@
+[
+  {
+    "id": "1",
+    "createdAt": "2020-01-07T08:21:34.693Z",
+    "name": "Luka Bear Santana",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/swaplord/128.jpg",
+    "location": [
+      {
+        "address": "94-95 95th st Queens NY 11416",
+        "lat": "40.672326",
+        "lon": "-73.749512/94-95"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://i.pinimg.com/originals/1a/0f/74/1a0f748526798b991d8798ebabcf3866.jpg"
+      }
+    ],
+    "breed": "Pomsky",
+    "details": [
+      {
+        "furColor": "Brown and white ",
+        "eyeColor": "Blue",
+        "weight": "40lb",
+        "health": "Good",
+        "friendly": "Yes",
+        "familyDog": "Yes",
+        "dogFriendly": "Yes",
+        "furTexture": "fluffy",
+        "age": "7 months",
+        "size": "medium",
+        "sheds": "Yes",
+        "sex": "male",
+        "favoriteBy": "Margiett X Gil"
+        
+    
+      }
+    ],
+    "education": "Personal Trainer.",
+    "highlight": "loves to cuddle",
+    "summary": "Luka is looking for more doggy friends, to play with and also looking for a female to mate with same breed pure pomskey 5 or more generation."
+  },
+  {
+    "id": "2",
+    "createdAt": "2020-01-06T20:53:04.376Z",
+    "name": "Scooby Gil",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/faisalabid/128.jpg",
+    "location": [
+      {
+        "address": "94-95 95th st Queens NY 11416",
+        "lat": "40.672326",
+        "lon": "-73.749512/94-95"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://spdrdogs.org/wp-content/uploads/2018/12/sheltie-spdr-shutterstock_346700384.jpg"
+      }
+    ],
+    "breed": "Sheltie",
+    "details": [
+      {
+        "furColor": "Brown, white and gold ",
+        "eyeColor": "Brown",
+        "weight": "30lb",
+        "health": "Good",
+        "friendly": "Yes",
+        "familyDog": "Yes",
+        "dogFriendly": "No",
+        "furTexture": "fluffy",
+        "age": "15 years",
+        "size": "medium",
+        "sheds": "Yes",
+        "sex": "male",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "Obedient School",
+    "highlight": "great listerner walks next to you does not need a leash",
+    "summary": " Scooby is just looking for more furry friends to go to the park with"
+  },
+  {
+    "id": "3",
+    "createdAt": "2020-01-07T16:24:57.853Z",
+    "name": "Bella Gil",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/n1ght_coder/128.jpg",
+    "location": [
+      {
+        "address": "2112 Broadway, New York, NY 10023",
+        "lat": "40.7789702",
+        "lon": "-73.9843224,16.3"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwb4kyJDYDTWHjgkexgAz0AUnrk_deKfLy0QFKYNf7VkofVj52GQ&s"
+      }
+    ],
+    "breed": "Yorkshire Terrier",
+    "details": [
+      {
+        "furColor": "gold, grey and light brown ",
+        "eyeColor": "Brown",
+        "weight": "10lb",
+        "health": "Good",
+        "friendly": "No",
+        "familyDog": "No",
+        "dogFriendly": "No",
+        "furTexture": "curly",
+        "age": "5 years",
+        "size": "small",
+        "sheds": "No",
+        "sex": "female",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "PetSmart training classes",
+    "highlight": "loves to cuddle attention seeker",
+    "summary": " Looking for someone, to mate with and have more furry pups with, ! has to be same breed no bigger than 10 lb rather another doggy mate to be less than 10 lb !"
+  },
+  {
+    "id": "4",
+    "createdAt": "2020-01-07T14:13:02.210Z",
+    "name": "Juju",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bungiwan/128.jpg",
+    "location": [
+      {
+        "address": "301-331 W 40th St, New York, NY 10018",
+        "lat": "40.7561423",
+        "lon": "-73.9933653,17"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsd1pjV1P0FbuW_eOcrJA1kSAMKwwAJSCPUI4e7NzRXa425pJ1&s"
+      }
+    ],
+    "breed": "Red Miniature Poodle",
+    "details": [
+      {
+        "furColor": "Redish Brown",
+        "eyeColor": "Brown",
+        "weight": "10lb",
+        "health": "Good",
+        "Friendly": "No",
+        "FamilyDog": "No",
+        "DogFriendly": "No",
+        "furTexture": "curly",
+        "age": "5 years",
+        "size": "small",
+        "Sheds": "No",
+        "sex": "female",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "Personal Trainer",
+    "highlight": "loves to cuddle and go for walks and loves to wear clothes",
+    "summary": "Juju love to make furry friends, get excited to when she meets new furry friends, Juju is also looking for a doggy mate to make some puppies she can love and care for."
+  },
+  {
+    "id": "5",
+    "createdAt": "2020-01-07T03:59:45.290Z",
+    "name": "Mylo",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lewisainslie/128.jpg",
+    "location": [
+      {
+        "address": "39 Bond St, New York, NY 10012",
+        "lat": "40.7260279",
+        "lon": "-73.9955218,17"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://pomskydogpuppies.com/wp-content/uploads/2018/01/White-Pomsky-2.jpg"
+      }
+    ],
+    "breed": "Pomsky",
+    "details": [
+      {
+        "furColor": "white",
+        "eyeColor": "Brown",
+        "weight": "10lb",
+        "health": "Good",
+        "friendly": "Yes",
+        "familyDog": "Yes",
+        "dogFriendly": "Yes",
+        "furTexture": "fluffy",
+        "age": "3 years",
+        "size": "small",
+        "sheds": "No",
+        "sex": "male",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "very playful, hard to teach because, all he wants to do is play",
+    "highlight": "loves to run and make new fluffy friends",
+    "summary": " Loves to play, Mylo is super playful, is very strange the momment that he is serious probably when he is sleeping, Mylo is looking for more fluffy friends some come over the house to play or meet at the park, and if the right furry female crosses path would love to make some puppies"
+  },
+  {
+    "id": "6",
+    "createdAt": "2020-01-07T07:53:55.580Z",
+    "name": "Emil",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/tgerken/128.jpg",
+    "location": [
+      {
+        "address": "39 Bond St, New York, NY 10012",
+        "lat": "40.7260279",
+        "lon": "-73.9955218,17"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://c8.alamy.com/comp/BE77X4/miniature-dachshund-wire-haired-sitting-on-a-rock-BE77X4.jpg"
+      }
+    ],
+    "breed": "Zwergdackel",
+    "details": [
+      {
+        "furColor": "Black and brown",
+        "eyeColor": "Brown",
+        "weight": "8 lb",
+        "health": "Good",
+        "friendly": "Yes",
+        "familyDog": "Yes",
+        "dogFriendly": "Yes",
+        "furTexture": "Straight",
+        "age": "2 years",
+        "size": "small",
+        "sheds": "No",
+        "sex": "female",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "Petco Personal Trainer",
+    "highlight": "loves to run and make new fluffy friends",
+    "summary": "looking for fluffy friends, I am learning how to socialize with other furry friends"
+  },
+  {
+    "id": "7",
+    "createdAt": "2020-01-06T19:46:09.975Z",
+    "name": "Bentley",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yesmeck/128.jpg",
+    "location": [
+      {
+        "address": "669-699 Columbus Ave, New York, NY 10025",
+        "lat": "40.7912512",
+        "lon": "-73.9708984,17"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://www.furrytips.com/wp-content/uploads/2016/06/blue-nose-pitbull.jpg"
+      }
+    ],
+    "breed": "Blue Nose PitBull",
+    "details": [
+      {
+        "furColor": "Grey",
+        "eyeColor": "Brown",
+        "weight": "20 lb",
+        "health": "Good",
+        "Friendly": "Yes",
+        "FamilyDog": "Yes",
+        "dogFriendly": "Yes",
+        "furTexture": "Straight and short",
+        "age": "2 years",
+        "size": "Medium",
+        "sheds": "No",
+        "sex": "male",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "Obedient School",
+    "highlight": "loves to run and tug of war",
+    "summary": " fast learner, knows how to do tricks like sit, paw, laydown, beg. Looking for a female furry friend to make some pups with and also to have some play dates"
+  },
+  {
+    "id": "8",
+    "createdAt": "2020-01-07T04:32:00.929Z",
+    "name": "Lyla",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/byrnecore/128.jpg",
+    "location": [
+      {
+        "address": "Central Park West Historic District, New York, NY",
+        "lat": "40.7785888",
+        "lon": "-73.970273,15"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://media.istockphoto.com/photos/yorktese-puppy-dog-picture-id973904964?k=6&m=973904964&s=612x612&w=0&h=T9GoyKtuKcw7BpXX__S53xN1eELfAOI-cXjLnnxVLQY="
+      }
+    ],
+    "breed": "Black Maltese",
+    "details": [
+      {
+        "furColor": "Black",
+        "eyeColor": "Brown",
+        "weight": "5 lb",
+        "health": "Good",
+        "friendly": "Yes",
+        "familyDog": "Yes",
+        "dogFriendly": "Yes",
+        "furTexture": "curly and short",
+        "age": "2 years",
+        "size": "small",
+        "sheds": "No",
+        "sex": "female",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": " Pet Smart Personal Trainer",
+    "highlight": "well trained, loves to nap and cuddle",
+    "summary": " looking for furry friends to play with"
+  },
+  {
+    "id": "9",
+    "createdAt": "2020-01-06T18:56:48.495Z",
+    "name": "Charlee",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/newbrushes/128.jpg",
+    "location": [
+      {
+        "address": "1921 Lexington Ave New York, NY 10065",
+        "lat": "40.7675337",
+        "lon": "-73.9659635,17"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://minidoodledogs.com/wp-content/uploads/bb-plugin/cache/Hazel-square-cockapoo-cockapoo_puppies-cockapoo_hypoallergenic-toy_cockapoo-mini_cockapoo-cockapoo_puppies_near_me-cockapoo_breeders-Mini_Doodle_Dogs-1-1-300x300-circle.jpg"
+      }
+    ],
+    "breed": "Cockapoo",
+    "details": [
+      {
+        "furColor": "Brown",
+        "eyeColor": "Brown",
+        "weight": "15 lb",
+        "health": "Good",
+        "friendly": "Yes",
+        "familyDog": "Yes",
+        "dogFriendly": "Yes",
+        "furTexture": "curly and puffy",
+        "age": "5 years",
+        "size": "Medium",
+        "sheds": "No",
+        "sex": "male",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "went to obedience school at Petco",
+    "highlight": "Playful, knows a lot of tricks can play dead",
+    "summary": " looking to make more furry friends "
+  },
+  {
+    "id": "10",
+    "createdAt": "2020-01-07T17:09:25.192Z",
+    "name": "Tobiah",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/gizmeedevil1991/128.jpg",
+    "location": [
+      {
+        "address": "98-1 10th St, Roosevelt ave, NY 19301",
+        "lat": "40.759361",
+        "lon": "-73.952908"
+      }
+    ],
+    "dogImage": [
+      {
+        "image": "https://grinrescue.org/templates/rt_requiem/custom/images/FrontPagePhotos/animated-golden.jpg"
+      }
+    ],
+    "breed": "Golden Retriever",
+    "details": [
+      {
+        "furColor": "Gold",
+        "eyeColor": "Brown",
+        "weight": "60 lb",
+        "health": "Good",
+        "friendly": "Yes",
+        "familyDog": "Yes",
+        "dogFriendly": "Yes",
+        "furTexture": "Straight and soft",
+        "age": "7 years",
+        "size": "big",
+        "sheds": "No",
+        "sex": "male",
+        "favoriteBy": "Margiett X Gil"
+      }
+    ],
+    "education": "basic self taught",
+    "highlight": "family dog great with kids and smaller dogs, potty trained",
+    "summary": "looking for more furry friends to play with preferable my size since my brother and sister are way too tiny for me to play with"
+  }
+]
+

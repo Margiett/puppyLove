@@ -12,7 +12,7 @@ struct APIClient {
     static func postAPI (postPuppyLove: PuppyLove,
                             completion: @escaping (Result<Bool, AppError>) -> ()) {
         // remember to change the url
-        let puppyLoveEndpointURL = "https://5c1d79abbc26950013fbcaa9.mockapi.io/api/v1/elements"
+        let puppyLoveEndpointURL = "http://5e0299e863d08b0014a289a4.mockapi.io/dogs"
         
         //MARK: Create a URL from the endpoint String
         guard let url = URL(string: puppyLoveEndpointURL) else {
@@ -49,7 +49,7 @@ struct APIClient {
     static func getPuppyLove(for faves: [PuppyLove],
                          completion: @escaping(Result <[PuppyLove], AppError>) -> ()) {
         // remember to change the url
-        let idEndpointUrl = "https://5c1d79abbc26950013fbcaa9.mockapi.io/api/v1/elements"
+        let idEndpointUrl = "http://5e0299e863d08b0014a289a4.mockapi.io/dogs"
         
         guard let url = URL(string: idEndpointUrl) else {
             completion(.failure(.badURL(idEndpointUrl)))
@@ -76,7 +76,7 @@ struct APIClient {
     static func postFave(favoritePuppyLovePost: PuppyLove,
                              completion: @escaping (Result<Bool, AppError>) -> ()){
         //Remember to change the url !!!!
-        let puppyLoveEndpointURL = "https://5c1d79abbc26950013fbcaa9.mockapi.io/api/v1/favorites"
+        let puppyLoveEndpointURL = "http://5e0299e863d08b0014a289a4.mockapi.io/favorites"
         
         guard let url = URL(string: puppyLoveEndpointURL) else {
             completion(.failure(.badURL(puppyLoveEndpointURL)))

@@ -6,7 +6,7 @@
 //  Copyright © 2019 Margiett Gil. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 struct PuppyLoveSearch: Codable {
     let results: [PuppyLove]
@@ -14,27 +14,36 @@ struct PuppyLoveSearch: Codable {
 
 struct PuppyLove: Codable {
     let name: String
-    let number: Int
-    let symbol: String
-    let source: String
-    let atomic_mass: Double
-    let melt: Double?
-    let boil: Double?
-    let discoveredBy: String?
-    let id: String?
+    let dogImage: [Image]
+    let breed: String
+    let details: [details]
+    let location: [location]
+    let education: String
+    let hightlight: String
+    let summary: String
     let favoritedBy: String?
-    
-    enum CodingKeys: String, CodingKey {
-    case discoveredBy = "discovered_by"
-    case melt = "melt"
-    case boil = "boil"
-    case symbol = "symbol"
-    case name = "name"
-    case number = "number"
-    case id = "id"
-    case favoritedBy// = "favorited_by"
-    case source = "source"
-    case atomic_mass = "atomic_mass"
 }
+struct Image: Codable {
+        let image: String
+    }
+struct details: Codable {
+    let furColor: String
+    let eyeColor: String
+    let weight: String
+    let health: String
+    let friendly: String
+    let familyDog: String
+    let dogFriendly: String
+    let furTexture: String
+    let age: String
+    let size: String
+    let sheds: String
+    let sex: String
+}
+
+struct location: Codable {
+    let address: String
+    let lat: String
+    let lon: String
 }
 
