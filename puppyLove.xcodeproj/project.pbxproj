@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F48B8F823C6B116002ECB2B /* faveModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F48B8F723C6B116002ECB2B /* faveModel.swift */; };
+		9F48B8FA23C6BBD2002ECB2B /* FavesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F48B8F923C6BBD2002ECB2B /* FavesVC.swift */; };
 		9F5C370223BBF624006E51F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5C370123BBF624006E51F9 /* AppDelegate.swift */; };
 		9F5C370423BBF624006E51F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5C370323BBF624006E51F9 /* SceneDelegate.swift */; };
 		9F5C370623BBF624006E51F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5C370523BBF624006E51F9 /* ViewController.swift */; };
@@ -29,6 +31,7 @@
 		9F6FAFBD23C64FBE0031115D /* PostedAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6FAFBC23C64FBE0031115D /* PostedAnswer.swift */; };
 		9F6FAFBF23C6559A0031115D /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6FAFBE23C6559A0031115D /* Answer.swift */; };
 		9F6FAFC423C656FA0031115D /* Answer.json in Resources */ = {isa = PBXBuildFile; fileRef = 9F6FAFC323C656FA0031115D /* Answer.json */; };
+		9F6FAFC623C685E80031115D /* puppyLoveDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F6FAFC523C685E80031115D /* puppyLoveDetailVC.swift */; };
 		9FA9E6DB23C5055200CE6E22 /* dogs.json in Resources */ = {isa = PBXBuildFile; fileRef = 9FA9E6DA23C5055200CE6E22 /* dogs.json */; };
 		9FA9E6DD23C50A5500CE6E22 /* favorite.json in Resources */ = {isa = PBXBuildFile; fileRef = 9FA9E6DC23C50A5500CE6E22 /* favorite.json */; };
 		9FF21EE623C53BA7002A872A /* puppyLoveCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FF21EE523C53BA7002A872A /* puppyLoveCell.swift */; };
@@ -45,6 +48,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9F48B8F723C6B116002ECB2B /* faveModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = faveModel.swift; sourceTree = "<group>"; };
+		9F48B8F923C6BBD2002ECB2B /* FavesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavesVC.swift; sourceTree = "<group>"; };
 		9F5C36FE23BBF624006E51F9 /* puppyLove.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = puppyLove.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F5C370123BBF624006E51F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F5C370323BBF624006E51F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +76,7 @@
 		9F6FAFBC23C64FBE0031115D /* PostedAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostedAnswer.swift; sourceTree = "<group>"; };
 		9F6FAFBE23C6559A0031115D /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
 		9F6FAFC323C656FA0031115D /* Answer.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Answer.json; sourceTree = "<group>"; };
+		9F6FAFC523C685E80031115D /* puppyLoveDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = puppyLoveDetailVC.swift; sourceTree = "<group>"; };
 		9FA9E6DA23C5055200CE6E22 /* dogs.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dogs.json; sourceTree = "<group>"; };
 		9FA9E6DC23C50A5500CE6E22 /* favorite.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = favorite.json; sourceTree = "<group>"; };
 		9FF21EE523C53BA7002A872A /* puppyLoveCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = puppyLoveCell.swift; sourceTree = "<group>"; };
@@ -98,7 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				9F6FAFB123C6460B0031115D /* JSONS */,
-				9F6FAFA823C63E210031115D /* View Controllers  */,
+				9F6FAFA823C63E210031115D /*  Controllers  */,
 				9FF21EE423C53B62002A872A /* puppyLoveCell */,
 				9F5C372D23BBFEA4006E51F9 /* Extensions  */,
 				9F5C372A23BBF8C9006E51F9 /* Model */,
@@ -155,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				9F5C372B23BBF92A006E51F9 /* puppyLove.swift */,
+				9F48B8F723C6B116002ECB2B /* faveModel.swift */,
 				9F6FAFAD23C644490031115D /* PostedQuestion.swift */,
 				9F6FAFBA23C64DF00031115D /* Question.swift */,
 				9F6FAFBC23C64FBE0031115D /* PostedAnswer.swift */,
@@ -173,13 +180,15 @@
 			path = "Extensions ";
 			sourceTree = "<group>";
 		};
-		9F6FAFA823C63E210031115D /* View Controllers  */ = {
+		9F6FAFA823C63E210031115D /*  Controllers  */ = {
 			isa = PBXGroup;
 			children = (
 				9F5C370523BBF624006E51F9 /* ViewController.swift */,
 				9F6FAFAB23C63ED80031115D /* CreateQuestionController.swift */,
+				9F6FAFC523C685E80031115D /* puppyLoveDetailVC.swift */,
+				9F48B8F923C6BBD2002ECB2B /* FavesVC.swift */,
 			);
-			path = "View Controllers ";
+			path = " Controllers ";
 			sourceTree = "<group>";
 		};
 		9F6FAFB123C6460B0031115D /* JSONS */ = {
@@ -312,6 +321,7 @@
 				9F5C372C23BBF92A006E51F9 /* puppyLove.swift in Sources */,
 				9F5C370623BBF624006E51F9 /* ViewController.swift in Sources */,
 				9F5C370223BBF624006E51F9 /* AppDelegate.swift in Sources */,
+				9F6FAFC623C685E80031115D /* puppyLoveDetailVC.swift in Sources */,
 				9F5C372723BBF70D006E51F9 /* appError.swift in Sources */,
 				9F6FAFBF23C6559A0031115D /* Answer.swift in Sources */,
 				9F5C372523BBF6D6006E51F9 /* Network Helper .swift in Sources */,
@@ -319,7 +329,9 @@
 				9F5C370423BBF624006E51F9 /* SceneDelegate.swift in Sources */,
 				9F5C373123BBFF24006E51F9 /* UIViewControllers ++ Alerts.swift in Sources */,
 				9FF21EE623C53BA7002A872A /* puppyLoveCell.swift in Sources */,
+				9F48B8FA23C6BBD2002ECB2B /* FavesVC.swift in Sources */,
 				9F6FAFBD23C64FBE0031115D /* PostedAnswer.swift in Sources */,
+				9F48B8F823C6B116002ECB2B /* faveModel.swift in Sources */,
 				9F6FAFB923C64BD70031115D /* questions.swift in Sources */,
 				9F6FAFAE23C644490031115D /* PostedQuestion.swift in Sources */,
 				9F5C372923BBF85A006E51F9 /* APIClient.swift in Sources */,
