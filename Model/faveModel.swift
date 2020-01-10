@@ -13,4 +13,6 @@ struct Favorite: Codable {
     let favoritedBy: String
     let name: String
     let dogImage: String
+    let title: String
+    let topic: String
 }
