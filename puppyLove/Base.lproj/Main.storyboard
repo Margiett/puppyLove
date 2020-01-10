@@ -12,11 +12,11 @@
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="puppyLove" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Cv3-0F-Z2P">
-                                <rect key="frame" x="0.0" y="41.5" width="414" height="725"/>
+                                <rect key="frame" x="0.0" y="85.5" width="414" height="725"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="414" id="fKH-QQ-x2i"/>
@@ -198,7 +198,13 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <viewLayoutGuide key="safeArea" id="zqs-6e-42N"/>
                     </view>
-                    <navigationItem key="navigationItem" id="mUu-GB-J6F"/>
+                    <navigationItem key="navigationItem" id="mUu-GB-J6F">
+                        <barButtonItem key="rightBarButtonItem" title="Edit" id="SnZ-Pq-fEk">
+                            <connections>
+                                <action selector="editButtonPressed:" destination="X7Z-1x-F7a" id="SdY-w7-RQa"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                     <connections>
                         <outlet property="tableView" destination="YdV-lZ-6Dn" id="6gh-JY-EPu"/>
                     </connections>
@@ -280,7 +286,7 @@
             <objects>
                 <viewController id="nHP-WY-unZ" customClass="puppyLoveDetailVC" customModule="puppyLove" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="A5G-aw-6c5">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="r1i-yR-BAO">
@@ -333,7 +339,7 @@
                                 <rect key="frame" x="179" y="533.5" width="56" height="27.5"/>
                                 <state key="normal" title="Login"/>
                                 <connections>
-                                    <segue destination="BYZ-38-t0r" kind="show" id="aqv-DY-JJo"/>
+                                    <segue destination="gFX-Pv-7J5" kind="show" id="i1d-Py-Xgq"/>
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Puppy" translatesAutoresizingMaskIntoConstraints="NO" id="Wqe-M5-aNZ">
@@ -550,6 +556,6 @@
         <image name="uploadImage" width="512" height="400"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="aqv-DY-JJo"/>
+        <segue reference="i1d-Py-Xgq"/>
     </inferredMetricsTieBreakers>
 </document>
